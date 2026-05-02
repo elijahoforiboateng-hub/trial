@@ -1,6 +1,6 @@
-# Trial
+# Lesson Quick Trial Starter
+Ofori-Boateng Elijah 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
